@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Vaishnav SN</h1>
 <h3 align="center">Full-Stack Developer with MERN Expertise: Skilled in developing end-to-end web applications with proficiency in React, Express, MongoDB, and Node.js. Excels in collaborating with cross-functional teams to deliver exceptional user experiences.</h3>
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+![GIF Title](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 - 🌱 I’m currently learning **Three.js, React native, Angular**
 
