@@ -28,15 +28,14 @@
 
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnv-sn&show_icons=true&locale=en&layout=compact" alt="vaishnv-sn" /></p>
-  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnv-  sn&show_icons=true&locale=en&layout=compact" alt="vaishnv-sn" /></p>
 </div>
+
 <div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnv-sn&show_icons=true&locale=en" alt="vaishnv-sn" /></p>
-  
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnv-sn&show_icons=true&locale=en" alt="vaishnv-sn" /></p>
 </div>
+
 <div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnv-sn&" alt="vaishnv-sn" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnv-sn&" alt="vaishnv-sn" /></p>
 </div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnv-sn&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)
 
