@@ -28,7 +28,7 @@
 </p>
 
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnv-  sn&show_icons=true&locale=en&layout=compact" alt="vaishnv-sn" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnv-sn&show_icons=true&locale=en&layout=compact" alt="vaishnv-sn" /></p>
 </div>
 
 <div>
