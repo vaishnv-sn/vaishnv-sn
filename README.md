@@ -35,7 +35,6 @@
 </div>
 <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnv-sn&" alt="vaishnv-sn" /></p>
-  
 </div>
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
