@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vaishnav SN</h1>
-<h3 align="center">Full-Stack Developer with MERN Expertise: Skilled in developing end-to-end web applications with proficiency in React, Express, MongoDB, and Node.js. Excels in collaborating with cross-functional teams to deliver exceptional user experiences.</h3>
+<h3 align="center">Full-Stack Developer with expertise in MERN stack (MongoDB, Express, React, Node.js) and Next.js. I specialize in building end-to-end web applications and thrive in collaborative environments to deliver seamless user experiences.</h3>
 <div>
 <img align="center" alt="Coding" style="margin-bottom:"2px"" width="1000px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 </div>
