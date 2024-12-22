@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello world 👋</h1>
+<h1 align="center">Hello World 👋</h1>
 <h3 align="center">Full-Stack Developer with expertise in MERN stack (MongoDB, Express, React, Node.js) and Next.js. I specialize in building end-to-end web applications and thrive in collaborative environments to deliver seamless user experiences.</h3>
 <div>
 <img align="center" alt="Coding" style="margin-bottom:"2px"" width="1000px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
